@@ -85,3 +85,10 @@ D:\cloud\mail\Программирование\[Geekbrains] FrontEnd прогр�
 D:\cloud\mail\Программирование\[Geekbrains] FrontEnd программист\Урок 2. HTML.CSS.JS фреймворк Bootstrap\1\itb\bin\ru\System.Web.WebPages.resources.dll
 D:\cloud\mail\Программирование\[Geekbrains] FrontEnd программист\Урок 2. HTML.CSS.JS фреймворк Bootstrap\1\itb\bin\ru\System.Web.WebPages.Deployment.resources.dll
 D:\cloud\mail\Программирование\[Geekbrains] FrontEnd программист\Урок 2. HTML.CSS.JS фреймворк Bootstrap\1\itb\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Project\itb\itb\bin\ru\System.Web.Helpers.resources.dll
+C:\Project\itb\itb\bin\ru\System.Web.Mvc.resources.dll
+C:\Project\itb\itb\bin\ru\System.Web.Optimization.resources.dll
+C:\Project\itb\itb\bin\ru\System.Web.Razor.resources.dll
+C:\Project\itb\itb\bin\ru\System.Web.WebPages.resources.dll
+C:\Project\itb\itb\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Project\itb\itb\bin\ru\System.Web.WebPages.Razor.resources.dll
