@@ -1,0 +1,87 @@
+C:\Project\itb\itb\bin\roslyn\csc.exe
+C:\Project\itb\itb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Project\itb\itb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Project\itb\itb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Project\itb\itb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Project\itb\itb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Project\itb\itb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Project\itb\itb\bin\roslyn\System.Collections.Immutable.dll
+C:\Project\itb\itb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Project\itb\itb\bin\roslyn\vbc.exe
+C:\Project\itb\itb\bin\roslyn\VBCSCompiler.exe
+C:\Project\itb\itb\bin\roslyn\VBCSCompiler.exe.config
+C:\Project\itb\itb\bin\itb.dll.config
+C:\Project\itb\itb\bin\itb.dll
+C:\Project\itb\itb\bin\itb.pdb
+C:\Project\itb\itb\bin\Antlr3.Runtime.dll
+C:\Project\itb\itb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Project\itb\itb\bin\Microsoft.Web.Infrastructure.dll
+C:\Project\itb\itb\bin\Newtonsoft.Json.dll
+C:\Project\itb\itb\bin\System.Web.Helpers.dll
+C:\Project\itb\itb\bin\System.Web.Mvc.dll
+C:\Project\itb\itb\bin\System.Web.Optimization.dll
+C:\Project\itb\itb\bin\System.Web.Razor.dll
+C:\Project\itb\itb\bin\System.Web.WebPages.Deployment.dll
+C:\Project\itb\itb\bin\System.Web.WebPages.dll
+C:\Project\itb\itb\bin\System.Web.WebPages.Razor.dll
+C:\Project\itb\itb\bin\WebGrease.dll
+C:\Project\itb\itb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Project\itb\itb\bin\System.Web.Helpers.xml
+C:\Project\itb\itb\bin\System.Web.Mvc.xml
+C:\Project\itb\itb\bin\System.Web.Optimization.xml
+C:\Project\itb\itb\bin\System.Web.Razor.xml
+C:\Project\itb\itb\bin\System.Web.WebPages.xml
+C:\Project\itb\itb\bin\System.Web.WebPages.Deployment.xml
+C:\Project\itb\itb\bin\System.Web.WebPages.Razor.xml
+C:\Project\itb\itb\bin\Antlr3.Runtime.pdb
+C:\Project\itb\itb\bin\Newtonsoft.Json.xml
+C:\Project\itb\itb\obj\Debug\itb.csprojResolveAssemblyReference.cache
+C:\Project\itb\itb\obj\Debug\itb.dll
+C:\Project\itb\itb\obj\Debug\itb.pdb
+D:\cloud\mail\Программирование\[Geekbrains] FrontEnd программист\Урок 2. HTML.CSS.JS фреймворк Bootstrap\1\itb\bin\roslyn\csc.exe
+D:\cloud\mail\Программирование\[Geekbrains] FrontEnd программист\Урок 2. HTML.CSS.JS фреймворк Bootstrap\1\itb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\cloud\mail\Программирование\[Geekbrains] FrontEnd программист\Урок 2. HTML.CSS.JS фреймворк Bootstrap\1\itb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\cloud\mail\Программирование\[Geekbrains] FrontEnd программист\Урок 2. HTML.CSS.JS фреймворк Bootstrap\1\itb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\cloud\mail\Программирование\[Geekbrains] FrontEnd программист\Урок 2. HTML.CSS.JS фреймворк Bootstrap\1\itb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\cloud\mail\Программирование\[Geekbrains] FrontEnd программист\Урок 2. HTML.CSS.JS фреймворк Bootstrap\1\itb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\cloud\mail\Программирование\[Geekbrains] FrontEnd программист\Урок 2. HTML.CSS.JS фреймворк Bootstrap\1\itb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\cloud\mail\Программирование\[Geekbrains] FrontEnd программист\Урок 2. HTML.CSS.JS фреймворк Bootstrap\1\itb\bin\roslyn\System.Collections.Immutable.dll
+D:\cloud\mail\Программирование\[Geekbrains] FrontEnd программист\Урок 2. HTML.CSS.JS фреймворк Bootstrap\1\itb\bin\roslyn\System.Reflection.Metadata.dll
+D:\cloud\mail\Программирование\[Geekbrains] FrontEnd программист\Урок 2. HTML.CSS.JS фреймворк Bootstrap\1\itb\bin\roslyn\vbc.exe
+D:\cloud\mail\Программирование\[Geekbrains] FrontEnd программист\Урок 2. HTML.CSS.JS фреймворк Bootstrap\1\itb\bin\roslyn\VBCSCompiler.exe
+D:\cloud\mail\Программирование\[Geekbrains] FrontEnd программист\Урок 2. HTML.CSS.JS фреймворк Bootstrap\1\itb\bin\roslyn\VBCSCompiler.exe.config
+D:\cloud\mail\Программирование\[Geekbrains] FrontEnd программист\Урок 2. HTML.CSS.JS фреймворк Bootstrap\1\itb\bin\itb.dll.config
+D:\cloud\mail\Программирование\[Geekbrains] FrontEnd программист\Урок 2. HTML.CSS.JS фреймворк Bootstrap\1\itb\bin\itb.dll
+D:\cloud\mail\Программирование\[Geekbrains] FrontEnd программист\Урок 2. HTML.CSS.JS фреймворк Bootstrap\1\itb\bin\itb.pdb
+D:\cloud\mail\Программирование\[Geekbrains] FrontEnd программист\Урок 2. HTML.CSS.JS фреймворк Bootstrap\1\itb\bin\Antlr3.Runtime.dll
+D:\cloud\mail\Программирование\[Geekbrains] FrontEnd программист\Урок 2. HTML.CSS.JS фреймворк Bootstrap\1\itb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\cloud\mail\Программирование\[Geekbrains] FrontEnd программист\Урок 2. HTML.CSS.JS фреймворк Bootstrap\1\itb\bin\Microsoft.Web.Infrastructure.dll
+D:\cloud\mail\Программирование\[Geekbrains] FrontEnd программист\Урок 2. HTML.CSS.JS фреймворк Bootstrap\1\itb\bin\Newtonsoft.Json.dll
+D:\cloud\mail\Программирование\[Geekbrains] FrontEnd программист\Урок 2. HTML.CSS.JS фреймворк Bootstrap\1\itb\bin\System.Web.Helpers.dll
+D:\cloud\mail\Программирование\[Geekbrains] FrontEnd программист\Урок 2. HTML.CSS.JS фреймворк Bootstrap\1\itb\bin\System.Web.Mvc.dll
+D:\cloud\mail\Программирование\[Geekbrains] FrontEnd программист\Урок 2. HTML.CSS.JS фреймворк Bootstrap\1\itb\bin\System.Web.Optimization.dll
+D:\cloud\mail\Программирование\[Geekbrains] FrontEnd программист\Урок 2. HTML.CSS.JS фреймворк Bootstrap\1\itb\bin\System.Web.Razor.dll
+D:\cloud\mail\Программирование\[Geekbrains] FrontEnd программист\Урок 2. HTML.CSS.JS фреймворк Bootstrap\1\itb\bin\System.Web.WebPages.Deployment.dll
+D:\cloud\mail\Программирование\[Geekbrains] FrontEnd программист\Урок 2. HTML.CSS.JS фреймворк Bootstrap\1\itb\bin\System.Web.WebPages.dll
+D:\cloud\mail\Программирование\[Geekbrains] FrontEnd программист\Урок 2. HTML.CSS.JS фреймворк Bootstrap\1\itb\bin\System.Web.WebPages.Razor.dll
+D:\cloud\mail\Программирование\[Geekbrains] FrontEnd программист\Урок 2. HTML.CSS.JS фреймворк Bootstrap\1\itb\bin\WebGrease.dll
+D:\cloud\mail\Программирование\[Geekbrains] FrontEnd программист\Урок 2. HTML.CSS.JS фреймворк Bootstrap\1\itb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\cloud\mail\Программирование\[Geekbrains] FrontEnd программист\Урок 2. HTML.CSS.JS фреймворк Bootstrap\1\itb\bin\System.Web.Helpers.xml
+D:\cloud\mail\Программирование\[Geekbrains] FrontEnd программист\Урок 2. HTML.CSS.JS фреймворк Bootstrap\1\itb\bin\System.Web.Mvc.xml
+D:\cloud\mail\Программирование\[Geekbrains] FrontEnd программист\Урок 2. HTML.CSS.JS фреймворк Bootstrap\1\itb\bin\System.Web.Optimization.xml
+D:\cloud\mail\Программирование\[Geekbrains] FrontEnd программист\Урок 2. HTML.CSS.JS фреймворк Bootstrap\1\itb\bin\System.Web.Razor.xml
+D:\cloud\mail\Программирование\[Geekbrains] FrontEnd программист\Урок 2. HTML.CSS.JS фреймворк Bootstrap\1\itb\bin\System.Web.WebPages.xml
+D:\cloud\mail\Программирование\[Geekbrains] FrontEnd программист\Урок 2. HTML.CSS.JS фреймворк Bootstrap\1\itb\bin\System.Web.WebPages.Deployment.xml
+D:\cloud\mail\Программирование\[Geekbrains] FrontEnd программист\Урок 2. HTML.CSS.JS фреймворк Bootstrap\1\itb\bin\System.Web.WebPages.Razor.xml
+D:\cloud\mail\Программирование\[Geekbrains] FrontEnd программист\Урок 2. HTML.CSS.JS фреймворк Bootstrap\1\itb\bin\Antlr3.Runtime.pdb
+D:\cloud\mail\Программирование\[Geekbrains] FrontEnd программист\Урок 2. HTML.CSS.JS фреймворк Bootstrap\1\itb\bin\Newtonsoft.Json.xml
+D:\cloud\mail\Программирование\[Geekbrains] FrontEnd программист\Урок 2. HTML.CSS.JS фреймворк Bootstrap\1\itb\obj\Debug\itb.csprojResolveAssemblyReference.cache
+D:\cloud\mail\Программирование\[Geekbrains] FrontEnd программист\Урок 2. HTML.CSS.JS фреймворк Bootstrap\1\itb\obj\Debug\itb.dll
+D:\cloud\mail\Программирование\[Geekbrains] FrontEnd программист\Урок 2. HTML.CSS.JS фреймворк Bootstrap\1\itb\obj\Debug\itb.pdb
+D:\cloud\mail\Программирование\[Geekbrains] FrontEnd программист\Урок 2. HTML.CSS.JS фреймворк Bootstrap\1\itb\bin\ru\System.Web.Helpers.resources.dll
+D:\cloud\mail\Программирование\[Geekbrains] FrontEnd программист\Урок 2. HTML.CSS.JS фреймворк Bootstrap\1\itb\bin\ru\System.Web.Mvc.resources.dll
+D:\cloud\mail\Программирование\[Geekbrains] FrontEnd программист\Урок 2. HTML.CSS.JS фреймворк Bootstrap\1\itb\bin\ru\System.Web.Optimization.resources.dll
+D:\cloud\mail\Программирование\[Geekbrains] FrontEnd программист\Урок 2. HTML.CSS.JS фреймворк Bootstrap\1\itb\bin\ru\System.Web.Razor.resources.dll
+D:\cloud\mail\Программирование\[Geekbrains] FrontEnd программист\Урок 2. HTML.CSS.JS фреймворк Bootstrap\1\itb\bin\ru\System.Web.WebPages.resources.dll
+D:\cloud\mail\Программирование\[Geekbrains] FrontEnd программист\Урок 2. HTML.CSS.JS фреймворк Bootstrap\1\itb\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\cloud\mail\Программирование\[Geekbrains] FrontEnd программист\Урок 2. HTML.CSS.JS фреймворк Bootstrap\1\itb\bin\ru\System.Web.WebPages.Razor.resources.dll
