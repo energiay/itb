@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewBag.Title = "Профить";
+}
+
+<h2>Профить @User.Identity.Name</h2>
+
+@if ( User.IsInRole(@"vrn\Администраторы домена") )
+{
+    <div> @User.Identity.Name - Администратор домена </div>
+}
+else
+{
+    <div> @User.Identity.Name - НЕ Администратор домена </div>
+}
+
+<br />
+

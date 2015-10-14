@@ -92,3 +92,7 @@ C:\Project\itb\itb\bin\ru\System.Web.Razor.resources.dll
 C:\Project\itb\itb\bin\ru\System.Web.WebPages.resources.dll
 C:\Project\itb\itb\bin\ru\System.Web.WebPages.Deployment.resources.dll
 C:\Project\itb\itb\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Project\itb\itb\bin\EntityFramework.dll
+C:\Project\itb\itb\bin\EntityFramework.SqlServer.dll
+C:\Project\itb\itb\bin\EntityFramework.xml
+C:\Project\itb\itb\bin\EntityFramework.SqlServer.xml

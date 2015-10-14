@@ -7,6 +7,9 @@
     <title>@ViewBag.Title – приложение ASP.NET</title>
     @Styles.Render("~/Content/css")
     @Scripts.Render("~/bundles/modernizr")
+    @Scripts.Render("~/bundles/jqueryval")                      @*Валидация на клиенте*@
+    @Scripts.Render("~/bundles/jquery")                         @*Не переместив эту строку из футера в начало (как сейчас), не будет работать и unobtrusive ajax*@ 
+    @Scripts.Render("~/Scripts/jquery.unobtrusive-ajax.min.js") @*unobtrusive ajax*@
 </head>
 <body>
     <div class="navbar navbar-inverse navbar-fixed-top">
@@ -28,7 +31,17 @@
                     <li>@Html.ActionLink("Тестовая страница", "Test", "Home")</li>
                     
                 </ul>
-                <p class="nav navbar-text navbar-right">Здравствуйте, @Html.ActionLink(@User.Identity.Name, "Test", "Home")</p>
+                <div class="btn-group nav navbar-text navbar-right">
+                    <button type="button" class="btn btn-xs dropdown-toggle navbar-right" data-toggle="dropdown">
+                        @User.Identity.Name <span class="caret"></span>
+                    </button>
+                    <ul class="dropdown-menu" role="menu">
+                        <li>@Html.ActionLink("Профиль", "Profil", "Home")</li>
+                        <li>@Html.ActionLink("Настройки", "Index", "Home")</li>
+                        @*<li class="divider"></li>*@
+                    </ul>
+                </div>
+                @*<p class="nav navbar-text navbar-right">Здравствуйте, @Html.ActionLink(@User.Identity.Name, "Test", "Home")</p>*@
                 @*<p class="nav navbar-text navbar-right">Здравствуйте, @User.Identity.Name!</p>*@
             </div>
         </div>
@@ -37,11 +50,10 @@
         @RenderBody()
         <hr />
         <footer>
-            <p>&copy; @DateTime.Now.Year – приложение ASP.NET</p>
+            <p>&copy; 2015 – Инвестторгбанк</p>
         </footer>
     </div>
 
-    @Scripts.Render("~/bundles/jquery")
     @Scripts.Render("~/bundles/bootstrap")
     @RenderSection("scripts", required: false)
 </body>
