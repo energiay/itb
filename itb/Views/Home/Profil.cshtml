@@ -5,13 +5,35 @@
 
 <h2>Профить @User.Identity.Name</h2>
 
+
+
 @if ( User.IsInRole(@"vrn\Администраторы домена") )
 {
-    <div> @User.Identity.Name - Администратор домена </div>
+    <div> <i>Здравствуйте, @Html.Partial("_GetUserDomainFullName"), Вы администратор домена</i> </div>
+
+    <br />
+
+    <div class="row">
+        <div class="col-md-4" id="save"></div>
+    </div>
+    <br />
+
+    using (Ajax.BeginForm("_ButtonClickSave", "Home", new { str = "Все" }, new AjaxOptions() { UpdateTargetId = "save" }))
+    {
+        @Html.TextBox("dir")
+        <br />
+        <br />
+        <input type="submit" value="Сохранить" class="btn btn-default btn-success" />
+    }
+
+
+
 }
-else
+    
+
+@if ( User.IsInRole(@"vrn\Пользователи домена") && !User.IsInRole(@"vrn\Администраторы домена"))
 {
-    <div> @User.Identity.Name - НЕ Администратор домена </div>
+    <div> <i>Здравствуйте, @Html.Partial("_GetUserDomainFullName"). Вы пользователь домена</i> </div>
 }
 
 <br />

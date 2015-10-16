@@ -7,7 +7,21 @@
 
 
 <br />
+<div id="rep">
+    test
+</div>
 
+<br />
+<br />
+
+@using (Ajax.BeginForm("_ButtonClick", "Home", new { str = "TEST" }, new AjaxOptions() { UpdateTargetId = "rep" }))
+{
+    <input type="submit" value="Ajax" class="btn btn-default" />
+}
+
+<br />
+<hr />
+<br />
 
 <div class="row">
     <div class="col-md-3 col-md-push-3"><p>Приветствую Вас, @User.Identity.Name  </p></div>
@@ -60,7 +74,7 @@
 <br />
 
 
-<div class="alert alert-warning alert-dismissible" role="alert">
+<div class="alert alert-success alert-dismissible" role="alert">
     <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
     <strong>Внимание!</strong> Тут должно быть сообщение.
 </div>
@@ -89,16 +103,6 @@
         Panel content
     </div>
 </div>
-
-<div class="panel panel-default">
-    <div class="panel-heading">
-        <h3 class="panel-title">Panel title</h3>
-    </div>
-    <div class="panel-body">
-        Panel content
-    </div>
-</div>
-
 
 
 <br />

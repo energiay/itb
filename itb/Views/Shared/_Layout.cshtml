@@ -33,11 +33,11 @@
                 </ul>
                 <div class="btn-group nav navbar-text navbar-right">
                     <button type="button" class="btn btn-xs dropdown-toggle navbar-right" data-toggle="dropdown">
-                        @User.Identity.Name <span class="caret"></span>
+                        @Html.Partial("_GetUserDomainFullName") <span class="caret"></span>
                     </button>
                     <ul class="dropdown-menu" role="menu">
                         <li>@Html.ActionLink("Профиль", "Profil", "Home")</li>
-                        <li>@Html.ActionLink("Настройки", "Index", "Home")</li>
+                        @*<li>@Html.ActionLink("Настройки", "Index", "Home")</li>*@
                         @*<li class="divider"></li>*@
                     </ul>
                 </div>
@@ -48,6 +48,7 @@
     </div>
     <div class="container body-content">
         @RenderBody()
+        
         <hr />
         <footer>
             <p>&copy; 2015 – Инвестторгбанк</p>

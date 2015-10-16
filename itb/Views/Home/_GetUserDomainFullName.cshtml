@@ -1,0 +1,7 @@
+﻿@using itb.Models;
+
+@{ 
+    string FullName = cAD.GetFullName(User.Identity.Name);
+}
+
+@FullName
